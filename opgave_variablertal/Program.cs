@@ -22,7 +22,8 @@ namespace opgave_variablertal
             kommatal--;
             kommatal *= 2;
             Console.WriteLine(kommatal);
-
+           
+           
             //Console.WriteLine("Test");
 
 

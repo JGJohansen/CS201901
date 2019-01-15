@@ -19,8 +19,8 @@ namespace opgave_variablertaldel2
             
            
             double result = System.Convert.ToDouble(tal1) + System.Convert.ToDouble(tal2);
-
-            Console.WriteLine(result);
+            Console.WriteLine(result.ToString("N2"));
+          //  Console.WriteLine(result);
             Console.ReadKey();
 
         }
