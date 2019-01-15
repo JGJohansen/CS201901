@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konstanter_structurer_enum"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konst_enum_struct", "konst_enum_struct\konst_enum_struct.csproj", "{19E9E706-2930-4806-B7AC-2B27B6802FE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konst_enum_structenum", "konst_enum_structenum\konst_enum_structenum.csproj", "{716E24E7-3531-4402-A710-C0B2C2139C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{19E9E706-2930-4806-B7AC-2B27B6802FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E9E706-2930-4806-B7AC-2B27B6802FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E9E706-2930-4806-B7AC-2B27B6802FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716E24E7-3531-4402-A710-C0B2C2139C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716E24E7-3531-4402-A710-C0B2C2139C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716E24E7-3531-4402-A710-C0B2C2139C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716E24E7-3531-4402-A710-C0B2C2139C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
