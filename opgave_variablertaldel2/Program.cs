@@ -16,13 +16,32 @@ namespace opgave_variablertaldel2
             Console.WriteLine("Indtast tal 2");
             string tal2 = Console.ReadLine();
 
-            
+            //Der er mange muligheder. Man kan definere de enkelte variabler hvis man skal bruge dem igen, hvis man deriomod kun skal bruge resultatet igen så kan man definere resultatet istedet.
+            double t1 = System.Convert.ToDouble(tal1);
+            double t2 = System.Convert.ToDouble(tal2);
            
+            //her er resultatet sat som variable
             double result = System.Convert.ToDouble(tal1) + System.Convert.ToDouble(tal2);
-            Console.WriteLine(result.ToString("N2"));
-          //  Console.WriteLine(result);
-            Console.ReadKey();
 
+            // herefter printet på forskellige måder
+            Console.WriteLine(result.ToString("N2"));
+            Console.WriteLine(t1+t2);
+            Console.WriteLine(result);
+            Console.WriteLine(System.Convert.ToDouble(tal1)+ System.Convert.ToDouble(tal2));
+           
+
+
+            if (System.Diagnostics.Debugger.IsAttached)
+            {
+                Console.Write("Press any key to continue . . . ");
+                Console.ReadKey();
+            }
         }
+
+
+
+
     }
+
+
 }
