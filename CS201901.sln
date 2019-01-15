@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_variablertal", "opga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_variablertaldel2", "opgave_variablertaldel2\opgave_variablertaldel2.csproj", "{155A1EC6-ADD9-4208-A4E2-92BA1A3765D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler2", "Variabler2\Variabler2.csproj", "{8E542E05-A518-48EE-B8C6-8320558C0CF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{155A1EC6-ADD9-4208-A4E2-92BA1A3765D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155A1EC6-ADD9-4208-A4E2-92BA1A3765D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{155A1EC6-ADD9-4208-A4E2-92BA1A3765D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

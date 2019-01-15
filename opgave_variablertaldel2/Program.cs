@@ -28,8 +28,10 @@ namespace opgave_variablertaldel2
             Console.WriteLine(t1+t2);
             Console.WriteLine(result);
             Console.WriteLine(System.Convert.ToDouble(tal1)+ System.Convert.ToDouble(tal2));
-           
 
+            string dd = "something something";
+
+            Console.WriteLine(dd.ToUpperInvariant());
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
