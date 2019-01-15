@@ -28,7 +28,9 @@ namespace konst_enum_structenum
                 Console.ReadKey();
             }
 
-        }
+        }//comment
+
+        //comment test github
     }
 
 
