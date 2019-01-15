@@ -37,15 +37,15 @@ namespace konst_enum_structenum
     public struct SpilleKort
     {
 
-       public int Værdi;
-       public Kulør Kulør;
+        public int Værdi;
+        public Kulør Kulør;
 
     }
 
     public enum Kulør
     {
         Hjerter,
-        Spar, 
+        Spar,
         ruder,
         klør
 
