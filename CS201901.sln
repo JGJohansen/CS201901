@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_variablertaldel2", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler2", "Variabler2\Variabler2.csproj", "{8E542E05-A518-48EE-B8C6-8320558C0CF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variabler2_datoformatering", "variabler2_datoformatering\variabler2_datoformatering.csproj", "{C8441A91-5AF1-4550-A2DC-164434694372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E542E05-A518-48EE-B8C6-8320558C0CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8441A91-5AF1-4550-A2DC-164434694372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8441A91-5AF1-4550-A2DC-164434694372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8441A91-5AF1-4550-A2DC-164434694372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8441A91-5AF1-4550-A2DC-164434694372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
