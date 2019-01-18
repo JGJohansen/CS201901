@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_opgave", "if_opgave\if_o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programflow_opgave2", "programflow_opgave2\programflow_opgave2.csproj", "{807AEE0E-7949-47B7-9A5B-4D66A49FBA4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJEMMELEG_metoder", "HJEMMELEG_metoder\HJEMMELEG_metoder.csproj", "{B7DD1B33-48F5-4074-B23D-ED0F8D9DDBDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{807AEE0E-7949-47B7-9A5B-4D66A49FBA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{807AEE0E-7949-47B7-9A5B-4D66A49FBA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{807AEE0E-7949-47B7-9A5B-4D66A49FBA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DD1B33-48F5-4074-B23D-ED0F8D9DDBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DD1B33-48F5-4074-B23D-ED0F8D9DDBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DD1B33-48F5-4074-B23D-ED0F8D9DDBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DD1B33-48F5-4074-B23D-ED0F8D9DDBDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
