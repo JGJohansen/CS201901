@@ -15,6 +15,8 @@ namespace HJEMMELEG_metoder
             int test = Metoder.Metode1(4, 2);
             Console.WriteLine(test);
 
+            
+            cr
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
