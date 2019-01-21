@@ -17,7 +17,18 @@ namespace Metoder_opg1
             double areal = BeregnAreal(2.5);
             Console.WriteLine(areal);
 
-            Udskriv("Dette er en test");
+            Udskriv("Skriv noget f.eks. rolf");
+
+            string value = Console.ReadLine();
+
+            //Udskriv($"Du har lige skrevet {value}");
+
+            if (value != "rolf")
+            {
+                Console.WriteLine($"Du skrev ikke rolf, du skrev {value}");
+                Console.WriteLine("Prøv igen");
+            }
+            else Console.WriteLine("Flot!"); 
 
 
             if (System.Diagnostics.Debugger.IsAttached)
