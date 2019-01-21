@@ -6,29 +6,29 @@ using System.Threading.Tasks;
 
 namespace opgave_structvsclass
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
 
             Person k1 = new Person();
             Person k2 = new Person();
 
-            k1.navn = "a";
-            k2.navn = "b";
+            k1.Navn = "a";
+            k2.Navn = "b";
 
-            Console.WriteLine(k1.navn);
-            Console.WriteLine(k2.navn);
+            Console.WriteLine(k1.Navn);
+            Console.WriteLine(k2.Navn);
 
             k1 = k2;
 
-            Console.WriteLine(k1.navn);
-            Console.WriteLine(k2.navn);
+            Console.WriteLine(k1.Navn);
+            Console.WriteLine(k2.Navn);
 
-            k1.navn = "c";
+            k1.Navn = "c";
 
-            Console.WriteLine(k1.navn);
-            Console.WriteLine(k2.navn);
+            Console.WriteLine(k1.Navn);
+            Console.WriteLine(k2.Navn);
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
@@ -46,9 +46,9 @@ namespace opgave_structvsclass
         }
     }
 
-    class Person
+    internal class Person
     {
-        public String navn;
+        public string Navn;
 
     }
 }
