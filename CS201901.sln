@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderRekursiv", "MetoderR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderRekursivAdv", "MetoderRekursivAdv\MetoderRekursivAdv.csproj", "{8902DAC9-D40C-448F-B1D1-64B1B869BB6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fejlhåndtingsimpelfejlh", "fejlhåndtingsimpelfejlh\fejlhåndtingsimpelfejlh.csproj", "{1D75CE15-735C-48EA-8951-CB4CBA043334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8902DAC9-D40C-448F-B1D1-64B1B869BB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8902DAC9-D40C-448F-B1D1-64B1B869BB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8902DAC9-D40C-448F-B1D1-64B1B869BB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D75CE15-735C-48EA-8951-CB4CBA043334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D75CE15-735C-48EA-8951-CB4CBA043334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D75CE15-735C-48EA-8951-CB4CBA043334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D75CE15-735C-48EA-8951-CB4CBA043334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
