@@ -12,11 +12,20 @@ namespace HJEMMELEG_metoder
         static void Main(string[] args)
         {
 
-            int test = Metoder.Metode1(4, 2);
+           
+
+
+            string value1 = Console.ReadLine();
+            
+            string value2 = Console.ReadLine();
+            //string value3 = Console.ReadLine();
+            //string value4 = Console.ReadLine();
+            //string value5 = Console.ReadLine();
+
+            int test = Metoder.Metode1(Convert.ToInt32(value1), Convert.ToInt32(value2));
             Console.WriteLine(test);
 
-            
-            cr
+           
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
