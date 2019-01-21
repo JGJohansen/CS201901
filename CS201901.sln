@@ -42,6 +42,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_simpleKlasser", "Opgave_simpleKlasser\Opgave_simpleKlasser.csproj", "{808F301B-770C-4CFC-9471-B8B3A2E5C227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,6 +118,10 @@ Global
 		{CF04BE60-D6B5-4DB8-AC12-A991D363FB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF04BE60-D6B5-4DB8-AC12-A991D363FB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF04BE60-D6B5-4DB8-AC12-A991D363FB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808F301B-770C-4CFC-9471-B8B3A2E5C227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808F301B-770C-4CFC-9471-B8B3A2E5C227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808F301B-770C-4CFC-9471-B8B3A2E5C227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808F301B-770C-4CFC-9471-B8B3A2E5C227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
