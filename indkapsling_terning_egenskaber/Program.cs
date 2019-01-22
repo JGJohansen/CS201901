@@ -11,8 +11,7 @@ namespace indkapsling_terning_egenskaber
         static void Main(string[] args)
         {
 
-            for (int i = 0; i < 10; i++)
-            {
+            
                 Terning t1 = new Terning();
                 Console.WriteLine(t1.Skriv());
                 Console.WriteLine(t1.Ryst());
@@ -23,7 +22,7 @@ namespace indkapsling_terning_egenskaber
                 Console.WriteLine(t2.Ryst());
                 Console.WriteLine(t2.Skriv());
 
-            }
+            
 
             
 
