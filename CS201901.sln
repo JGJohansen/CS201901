@@ -58,6 +58,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indkapsling_terning_egenska
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_simple_array", "opgave_simple_array\opgave_simple_array.csproj", "{C31AA03A-4EAF-4804-8BB4-BB8EF8F67EEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_lister", "opgave_lister\opgave_lister.csproj", "{4C91E861-C98F-4FAD-BEC8-54668EE3C105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgaver_lister_michell_udgave", "opgaver_lister_michell_udgave\opgaver_lister_michell_udgave.csproj", "{B062852E-1A92-4445-B084-BCC50E1EAAB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -164,6 +168,14 @@ Global
 		{C31AA03A-4EAF-4804-8BB4-BB8EF8F67EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C31AA03A-4EAF-4804-8BB4-BB8EF8F67EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C31AA03A-4EAF-4804-8BB4-BB8EF8F67EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C91E861-C98F-4FAD-BEC8-54668EE3C105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C91E861-C98F-4FAD-BEC8-54668EE3C105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C91E861-C98F-4FAD-BEC8-54668EE3C105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C91E861-C98F-4FAD-BEC8-54668EE3C105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
