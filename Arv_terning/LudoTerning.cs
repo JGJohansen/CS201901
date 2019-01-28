@@ -29,6 +29,17 @@
         {
 
         }
+
+        public override void Skriv()
+        {
+            if (Værdi == 3)
+                System.Console.WriteLine("[G]");
+            else if (Værdi == 5)
+                System.Console.WriteLine("[S]");
+            else
+                base.Skriv();
+            //base.Skriv();
+        }
     }
 }
 

@@ -23,7 +23,7 @@ namespace Arv_terning
             Ryst();
         }
 
-        public void Skriv()
+        public virtual void Skriv()
         {
             Console.WriteLine($"[{Værdi}]");
         }

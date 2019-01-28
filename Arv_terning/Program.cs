@@ -17,18 +17,20 @@ namespace Arv_terning
             t1.Skriv();
             Console.WriteLine();
             Console.WriteLine("Ludo Terning1 ");
-            LudoTerning t2 = new LudoTerning(8);
+            LudoTerning t2 = new LudoTerning(5);
             t2.Skriv();
             t2.Ryst();
             t2.Skriv();
-            Console.WriteLine(t2.ErGlobus());
-            Console.WriteLine(t2.ErStjerne());
+            //Console.WriteLine(t2.ErGlobus());
+            //Console.WriteLine(t2.ErStjerne());
             Console.WriteLine();
             Console.WriteLine("Ludo Terning 2");
             LudoTerning t3 = new LudoTerning();
             t3.Skriv();
-            Console.WriteLine(t3.ErGlobus());
-            Console.WriteLine(t3.ErStjerne());
+            t3.Ryst();
+            t3.Skriv();
+            //Console.WriteLine(t3.ErGlobus());
+            //Console.WriteLine(t3.ErStjerne());
             if (System.Diagnostics.Debugger.IsAttached)
             {
                 Console.Write("Press any key to continue . . . ");
