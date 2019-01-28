@@ -78,7 +78,5 @@ namespace indkapsling_terning_egenskaber
 
 
 
-
-
-    }
+}
 }

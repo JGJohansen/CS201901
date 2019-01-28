@@ -62,6 +62,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_lister", "opgave_lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgaver_lister_michell_udgave", "opgaver_lister_michell_udgave\opgaver_lister_michell_udgave.csproj", "{B062852E-1A92-4445-B084-BCC50E1EAAB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_arv_simple", "opgave_arv_simple\opgave_arv_simple.csproj", "{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -176,6 +178,10 @@ Global
 		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B062852E-1A92-4445-B084-BCC50E1EAAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
