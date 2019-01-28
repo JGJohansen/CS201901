@@ -30,14 +30,14 @@ namespace opgave_arv_udvidetBool
 
         public bool NextBool()
         {
-            //Random p = new Random();
+
             if (this.Next(1, 1002) <= 500)
             {
+
                 return true;
             }
             else
                 return false;
-            
 
         }
 
