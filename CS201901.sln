@@ -64,6 +64,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgaver_lister_michell_udga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_arv_simple", "opgave_arv_simple\opgave_arv_simple.csproj", "{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_arv_udvidetBool", "opgave_arv_udvidetBool\opgave_arv_udvidetBool.csproj", "{BA46CBFB-EAD4-4C19-A033-645062C82C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udvidetRandom_arv_Michell", "udvidetRandom_arv_Michell\udvidetRandom_arv_Michell.csproj", "{80CEA769-26E5-4A1B-BED8-1C687774C8D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -182,6 +186,14 @@ Global
 		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8113FA8-02F3-4F7C-A376-AE3EAEC6F2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA46CBFB-EAD4-4C19-A033-645062C82C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA46CBFB-EAD4-4C19-A033-645062C82C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA46CBFB-EAD4-4C19-A033-645062C82C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA46CBFB-EAD4-4C19-A033-645062C82C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CEA769-26E5-4A1B-BED8-1C687774C8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CEA769-26E5-4A1B-BED8-1C687774C8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CEA769-26E5-4A1B-BED8-1C687774C8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CEA769-26E5-4A1B-BED8-1C687774C8D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
