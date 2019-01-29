@@ -39,7 +39,7 @@ namespace opgave_events
 
         private static void W_Changed(object sender, System.IO.FileSystemEventArgs e)
         {
-            Console.WriteLine("Fil rettet");
+            Console.WriteLine("Fil rettet"+e.Name);
         }
     }
 }
